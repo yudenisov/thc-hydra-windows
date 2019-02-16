@@ -14,7 +14,7 @@ Features
 
 Usage
 -----
-1. Download the [whole archive](https://github.com/maaaaz/thc-hydra-windows/archive/master.zip)
+1. Download a Release (https://github.com/yudenisov/thc-hydra-windows)
 2. Extract it and run `hydra.exe`
 3. Profit
 
@@ -45,3 +45,5 @@ Last but not least, antivirus softwares might report some binaries as hacktools 
 Credits
 -------
 * The Hackers Choice "THC" https://www.thc.org/thc-hydra/
+Original Dustribution [maaaaz/thc-hydra-windows](https://github.com/maaaaz/thc-hydra-windows)
+
